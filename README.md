@@ -1,7 +1,7 @@
 # munit-test
 Initialised maven-based simple Mule flow with working Munit test
 
-# Description
+## Description
 
 The instructions on using Munit seem a little sparse and have several [brass moustaches][brass-moustaches].
 
